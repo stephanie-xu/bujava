@@ -1,0 +1,22 @@
+.root{
+    -fx-background-color: #f6eedd;
+    -fx-font-family: Monaco;
+}
+
+.label{
+    -fx-text-fill: #654e1d;
+}
+
+.menu-button, .menu-item{
+    -fx-background-color: #e7dcc6;
+}
+
+.button {
+    -fx-text-fill: #654e1d;
+    -fx-background-color: #e7dcc6;
+}
+
+.list-view, .list-cell{
+    /*-fx-text-fill: #ced3de;*/
+    -fx-background-color: #e7dcc6;
+}

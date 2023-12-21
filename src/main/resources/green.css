@@ -1,0 +1,24 @@
+.root{
+    -fx-background-color: #b6daa7;
+    -fx-font-family: Georgia;
+}
+
+.label{
+    -fx-text-fill: #093f07;
+}
+
+.button {
+    -fx-background-color: #c4e5b5;
+}
+
+.menu-button, .menu-item{
+    -fx-background-color: #c4e5b5;
+}
+
+.list-view, .list-cell{
+    -fx-background-color: #f5fcf5;
+}
+
+/*.background{*/
+/*    -fx-background-image: url("bunny.jpg");*/
+/*}*/

@@ -1,0 +1,23 @@
+.root{
+    -fx-background-color: #3f3544;
+    -fx-font-family: Verdana;
+}
+
+.label{
+    -fx-text-fill: #d2e7e7;
+}
+
+.menu-button, .menu-item{
+    -fx-background-color: #56576b;
+}
+
+.button {
+    -fx-text-fill: #d2e7e7;
+    -fx-background-color: #56576b;
+}
+
+.list-view, .list-cell{
+    -fx-text-fill: #ced3de;
+    -fx-background-color: #635d73;
+    -fx-border-style: dotted;
+}
